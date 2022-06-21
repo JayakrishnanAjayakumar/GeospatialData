@@ -1,11 +1,5 @@
-# Putting Addresses to Map
-In this Assignment we will use geocoding to convert a dataset of addresses to spatial data. 
-
-Download the dataset (CSV file) from https://cwru.box.com/s/iqs8tsqaofafz6anwf4fasdtxwumle4p
-Geocode it using MMQGIS Plugin in (QGIS)
-
-Run OpenStreetMap Geocoder and Census Geocoder and compare the results (how many geocoded and how many not). You can include the counts in a text file or word file and upload to this folder
-
-Upload the results to QGIS, and add a reference map. Take two seperate screenshots for each of the results from the geocoder. Upload both the shapefiles to this folder
-
-Take any of the shapefile and check its projection. Mention that in the text file you are uploading.Now reproject it to Psuedo-Mercator Projection (ESG:3857). Upload the resulting shapefile to this folder. 
+# Load your own Geospatial data to GIS
+Download spatial data (in shapefile format) from any available online source (even better, if its about something that interests you) and load it to QGIS (you can try it out in Python as well). 
+Copy the shapefile along with the required files (shapefile is a combination of files) to the First Assignment folder. 
+You can drag and drop the files to the folder or upload it using the upload files option. Also take a screen shot of the dataset loaded to QGIS and save it to the assignments folder as an image. 
+If you are trying it out in Python, create a new notebook file in this folder and add the code that reads the shapefile from this folder itself.
