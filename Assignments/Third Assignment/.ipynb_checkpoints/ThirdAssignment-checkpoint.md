@@ -10,5 +10,5 @@ Create a choropleth map with the necessary classifcation scheme and with a prope
 
 2) Mapping Gun Violence in Cincinnati
 
-For this exercise we will use two datasets. Total nubmer of shootings in Cincinnati city aggregated to census tract level (from 2006 to current) and all the schools in the same area (point data). Create a choroplethmap of the shooting data and overlay on top of it the school locations. Create a professional map with all the necessary elements. Upload the final map as pdf/image to this folder 
+For this exercise we will use two datasets https://cwru.box.com/s/uth38ku8hmcdgj29hvah4zgk6akwp2g4. Total nubmer of shootings in Cincinnati city aggregated to census tract level (from 2006 to current) and all the schools in the same area (point data). Create a choroplethmap of the shooting data and overlay on top of it the school locations. Create a professional map with all the necessary elements. Upload the final map as pdf/image to this folder.
 
