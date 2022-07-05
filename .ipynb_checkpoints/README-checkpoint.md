@@ -14,4 +14,12 @@ The dataset that has been used for this module can be downloaded from https://cw
 
 <ul>
     <li><a href="ChapterI_Introduction.ipynb">Introduction</a> &mdash; A quick introduction to Geospatial Data and Technologies</li>
+    <li><a href="ChapterII_GeospatialDataInHealth">Geospatial data in health</a> &mdash; An introduction to geospatial data in health</li>
+    <li><a href="ChapterIII_IntroductionToGIS.ipynb">Introduction to GIS</a> &mdash; An introduction to GIS</li>
+    <li><a href="ChapterIV_SpatialData.ipynb">Spatial data</a> &mdash; Spatial data acquisition</li>
+    <li><a href="ChapterV_Geocoding.ipynb">Geocoding</a> &mdash; Geocoding Addresses</li>
+    <li><a href="ChapterVI_Geovisualization.ipynb">Geovisualization</a> &mdash; Making Maps</li>
+    <li><a href="ChapterVII_GeoSpatialAnalysisI.ipynb">Geospatial Analysis I</a> &mdash; Vector Analysis</li>
+    <li><a href="ChapterVIII_GeoSpatialAnalysisII.ipynb">Geospatial Analysis II</a> &mdash; Raster Analysis</li>
+    <li><a href="ChapterIX_AdvancedSpatialMethods.ipynb">Advanced Spatial Analysis</a> &mdash; Heatmaps and Spatial interpolation</li>
 </ul>
