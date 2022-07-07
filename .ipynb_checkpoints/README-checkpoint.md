@@ -22,4 +22,5 @@ The dataset that has been used for this module can be downloaded from https://cw
     <li><a href="ChapterVII_GeoSpatialAnalysisI.ipynb">Geospatial Analysis I</a> &mdash; Vector Analysis</li>
     <li><a href="ChapterVIII_GeoSpatialAnalysisII.ipynb">Geospatial Analysis II</a> &mdash; Raster Analysis</li>
     <li><a href="ChapterIX_AdvancedSpatialMethods.ipynb">Advanced Spatial Analysis</a> &mdash; Heatmaps and Spatial interpolation</li>
+    <li><a href="ChapterX_SpatialDataPrivacyAndConfidentiality.ipynb">Spatial Data Privacy and Confidentiality</a> &mdash; Why privacy is important from a spatial perspective</li>
 </ul>
