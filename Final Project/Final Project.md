@@ -70,14 +70,23 @@ b) SOVI grid (https://cwru.box.com/s/k98x22ksbsfa4vhndmui2f71xz6ho5s4)  (use svi
 Make a 1 page slide for the steps you have followed and your deductions from the map
 
 7)  Create change raster’s (using subtraction) from the KDE raster’s provided for 3 month intervals from 2020-05-01  all the way up to 2022-02-01. You will create 8 maps in total
+             
              Between 2020-08-01to2020-11-01.tif and 2020-05-01to2020-08-01.tif
+             
              Between 2020-11-01to2021-02-01.tif and 2020-08-01to2020-11-01.tif
+             
              Between 2021-02-01to2021-05-01.tif and 2020-11-01to2021-02-01.tif
+             
              Between 2021-05-01to2021-08-01.tif and 2021-02-01to2021-05-01.tif
+             
              Between 2021-08-01to2021-11-01.tif and 2021-05-01to2021-08-01.tif
+             
              Between 2021-11-01to2022-02-01.tif and 2021-08-01to2021-11-01.tif
+             
              Between 2022-02-01to2022-02-05.tif and 2021-11-01to2022-02-01.tif
+             
              And finally
+             
              Between 2022-02-01to2022-02-05.tif and 2020-05-01to2020-08-01.tif
 
              Use diverging color ramp (possibly green (low values), yellow, red (high values))
