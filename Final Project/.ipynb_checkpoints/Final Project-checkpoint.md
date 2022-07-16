@@ -146,7 +146,7 @@ Due Dates:
 
 **Task 1: 07/27/2022 (this is mandatory and everyone should turn up their final document before 11:59pm. There will be deductions for late submissions)**
 
-**Task 2: Your final presntation on 07/28/2022**
+**Task 2: Your final presentation on 07/28/2022**
 
 
 
